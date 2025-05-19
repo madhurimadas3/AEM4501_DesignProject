@@ -1,6 +1,6 @@
-#AEM 4501 – Spring 2025 
+# AEM 4501 – Spring 2025 
 
-##Design Project – 2D Truss for Drone Ships 
+## Design Project – 2D Truss for Drone Ships 
 
 ### Team: Madhurima Das – Daniel Kurimay – Felicia Kedrowski 
  
